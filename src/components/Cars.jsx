@@ -4,9 +4,9 @@ export default function Cars() {
   //   const cars = ["BMW", "TOYOTA", "TATA", "HONDA"];
   const cars = [
     { name: "BMW", price: 2000000, emoji: "🚗" },
-    { name: "TOYOTA", price: 300000, emoji: "🚗" },
+    { name: "TOYOTA", price: 3000000, emoji: "🚗" },
     { name: "TATA", price: 1000000, emoji: "🚗" },
-    { name: "HONDA", price: 500000, emoji: "🚗" },
+    { name: "HONDA", price: 5000000, emoji: "🚗" },
   ];
 
   return (
