@@ -2,10 +2,13 @@
 // import Hello from "./components/Hello";
 // import Hello1 from "./components/Hello1";
 // import Cars from "./components/Cars";
-import Cars from "./components/Message1";
+// import Cars from "./components/Message1";
 // import ConditionalComponent from "./components/ConditionalComponent";
 
-import Message from "./components/Message1";
+import Form from "./components/Form";
+
+// import Counter from "./components/Counter";
+// import Message from "./components/Message1";
 
 function App() {
   // const days = ["Sun", "Mon", "Tue"];
@@ -19,7 +22,9 @@ function App() {
       {/* <Hello name="manish" /> */}
       {/* <Hello /> */}
       {/* <Cars /> */}
-      <Message />
+      {/* <Message /> */}
+      {/* <Counter /> */}
+      <Form />
     </div>
   );
 }
